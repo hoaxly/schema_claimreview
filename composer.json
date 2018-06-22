@@ -1,0 +1,8 @@
+{
+  "name": "hoaxly/schema_claimreview",
+  "description": "Adds Schema.org ClaimReview to the JSON LD array.",
+  "type": "drupal-module",
+  "version": "8.x-1.0",
+  "license": "GPL-2.0-or-later",
+  "require": {}
+}
