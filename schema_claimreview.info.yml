@@ -1,0 +1,9 @@
+name: Schema.org ClaimReview
+type: module
+description: Adds Schema.org ClaimReview to the JSON LD array.
+core: 8.x
+package: SEO
+version: '8.x-1.0'
+dependencies:
+  - schema_metatag
+  - schema_organization
